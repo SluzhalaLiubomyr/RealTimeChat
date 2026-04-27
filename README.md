@@ -78,5 +78,7 @@ cd ChatApp.UI
 npm install
 ng serve
 
-swager runs on:http://localhost:5070/swagger/
+Swagger runs on:http://localhost:5070/swagger/
+
+ 
 App runs on: http://localhost:4200
